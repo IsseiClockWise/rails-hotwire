@@ -71,3 +71,6 @@ group :test do
   gem "webdrivers"
 end
 gem 'cssbundling-rails'
+gem "kaminari"
+gem "ransack"
+gem "bootstrap_form"
